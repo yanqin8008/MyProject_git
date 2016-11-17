@@ -1,2 +1,2 @@
-111111111111110000000000000
-I =fdj ·¢´ó·ù¶È
+Git is a distributed version control system.
+Git is free software distributed under the GPL
